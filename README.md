@@ -2,7 +2,7 @@
 
 > Knowledge is forged, not found.
 
-CyberFoundry aims to build a community-driven knowledge base for cybersecurity professionals.
+BlueAnvil-Codex aims to build a community-driven knowledge base for cybersecurity professionals.
 
 It provides practical documentation, technical references, and resources covering various systems, tools, attack techniques, detection engineering, and security automation.
 
