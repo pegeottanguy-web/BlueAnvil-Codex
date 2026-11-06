@@ -1,4 +1,4 @@
-# CyberFoundry
+# BlueAnvil Codex
 
 > Knowledge is forged, not found.
 
